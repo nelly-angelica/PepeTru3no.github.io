@@ -1,0 +1,38 @@
+body{
+    width: 60%;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}   
+
+
+.imagenCabecera{
+    height: 8em;
+    width: 100%;
+}
+
+.textoBlanco{
+    color: aliceblue;
+}
+
+.textoCentrado{
+    text-align: center;
+}
+
+.fondo{
+    background-image:url("../imgs/fondo_header.png") ;
+}
+
+.extendido{
+    width: 100%;
+}
+
+.aLaIzquierda{
+    text-align: right;
+}
+
+.imagenDeMuestra{
+    width: 100%;
+    height: 100%;
+}
