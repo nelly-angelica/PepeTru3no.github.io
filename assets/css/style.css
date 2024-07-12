@@ -50,3 +50,12 @@
 .fondoPortafolio{
     background-color: darkgrey;
 }
+
+.curriculum {
+    color: black
+
+}
+
+.descripcion {
+    text-shadow: 2px 2px black;
+}
